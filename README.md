@@ -41,5 +41,6 @@ Template.body.helpers({
     { text: 'This is task 3' },
   ],
 });
-
 ```
+
+See [https://www.meteor.com/tutorials/blaze/templates](https://www.meteor.com/tutorials/blaze/templates) more details.
