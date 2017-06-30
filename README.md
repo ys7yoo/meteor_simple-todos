@@ -43,4 +43,4 @@ Template.body.helpers({
 });
 ```
 
-See [https://www.meteor.com/tutorials/blaze/templates](https://www.meteor.com/tutorials/blaze/templates) more details.
+See [https://www.meteor.com/tutorials/blaze/templates](https://www.meteor.com/tutorials/blaze/templates) for more details.
