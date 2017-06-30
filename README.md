@@ -43,4 +43,5 @@ Template.body.helpers({
 });
 ```
 
+Notice that Meteor templates are included in HTML with **{{> templateName}}** and referenced in JavaScript with **Template.templateName**.
 See [https://www.meteor.com/tutorials/blaze/templates](https://www.meteor.com/tutorials/blaze/templates) for more details.
